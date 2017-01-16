@@ -3,58 +3,56 @@ A repository of resources for creating animations of environments. Primary resou
 
 ## Assets
 
--Autodesk SEEK http://seek.autodesk.com
--3D Warehouse https://3dwarehouse.sketchup.com/
--Archive.org https://archive.org/
-Text To Speech http://ttsreader.com/
-CAD Mapper https://cadmapper.com/
+- Autodesk SEEK http://seek.autodesk.com
+- 3D Warehouse https://3dwarehouse.sketchup.com/
+- Archive.org https://archive.org/
+- Text To Speech http://ttsreader.com/
+- CAD Mapper https://cadmapper.com/
 
 ## Example Animations
 
-New Ideas
-Snow Fall NYT Interactive http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek
-Lateral Studio https://vimeo.com/63614185
+- New Ideas
+- Snow Fall NYT Interactive http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek
+- Lateral Studio https://vimeo.com/63614185
 
-Music Videos
-Yeasayers on Mars https://vimeo.com/151002965
+- Music Videos
+- Yeasayers on Mars https://vimeo.com/151002965
 
 PROJECT PRECEDENTS
 #### Abstract
-Big Brother http://vimeo.com/channels/animatedshorts/103437078
-Elastica http://vimeo.com/channels/animatedshorts/90603521
-Walking City http://vimeo.com/channels/animatedshorts/85596568
-Bot and Dolly http://vimeo.com/channels/animatedshorts/75260457
-Paradigm http://vimeo.com/channels/animatedshorts/64600406
-Katachi http://vimeo.com/channels/animatedshorts/58022280
-Matt and Arden Bendler Browning http://vimeo.com/55478763
+- Big Brother http://vimeo.com/channels/animatedshorts/103437078
+- Elastica http://vimeo.com/channels/animatedshorts/90603521
+- Walking City http://vimeo.com/channels/animatedshorts/85596568
+- Bot and Dolly http://vimeo.com/channels/animatedshorts/75260457
+- Paradigm http://vimeo.com/channels/animatedshorts/64600406
+- Katachi http://vimeo.com/channels/animatedshorts/58022280
+- Matt and Arden Bendler Browning http://vimeo.com/55478763
 
 #### Forces
-Exploit Yourself Nike http://vimeo.com/channels/animatedshorts/5318821
-Transparent Machines http://vimeo.com/channels/animatedshorts/78716671
+- Exploit Yourself Nike http://vimeo.com/channels/animatedshorts/5318821
+- Transparent Machines http://vimeo.com/channels/animatedshorts/78716671
 
 #### Iteration
-Amnesty International Pens http://vimeo.com/channels/animatedshorts/98138595
+- Amnesty International Pens http://vimeo.com/channels/animatedshorts/98138595
 
 #### Light and Magic
-Wanderers http://vimeo.com/channels/animatedshorts/78716671
-Fortress (Airplane Apocalypse) http://vimeo.com/channels/animatedshorts/67768281
+- Wanderers http://vimeo.com/channels/animatedshorts/78716671
+- Fortress (Airplane Apocalypse) http://vimeo.com/channels/animatedshorts/67768281
 
-Cite Campus https://goo.gl/Kkvj6J
+- Cite Campus https://goo.gl/Kkvj6J
 
-Foster Moon Base https://www.youtube.com/watch?time_continue=262&v=-TwYEIb90-8
+- Foster Moon Base https://www.youtube.com/watch?time_continue=262&v=-TwYEIb90-8
 
-Tim Portlock https://vimeo.com/83285121
+- Tim Portlock https://vimeo.com/83285121
 
 #### Trickery
-Lady is a tramp http://vimeo.com/108100081
-Bears on Stairs http://vimeo.com/channels/animatedshorts/91711011
-
-Escape from City 17 https://www.youtube.com/watch?v=9ixFf4ljuCg
+- Bears on Stairs http://vimeo.com/channels/animatedshorts/91711011
+- Escape from City 17 https://www.youtube.com/watch?v=9ixFf4ljuCg
 
 ### Artists
 
 #### Squint Opera
-Rio 2016 https://www.youtube.com/watch?v=acx7w2cOjyY&index=8&list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ
+- Rio 2016 https://www.youtube.com/watch?v=acx7w2cOjyY&index=8&list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ
 
 #### Joan Guasch
 Delorean Crystal http://youtu.be/-Q7skb6Prvs
