@@ -3,9 +3,13 @@ A repository of resources for creating animations of environments. Primary resou
 
 ## Assets
 Autodesk SEEK http://seek.autodesk.com
+3D Warehouse https://3dwarehouse.sketchup.com/
+Archive.org https://archive.org/
+Text To Speech http://ttsreader.com/
+CAD Mapper https://cadmapper.com/
+
 
 ## Example Animations
-*this is currently a mess*
 
 New Ideas
 Snow Fall NYT Interactive http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek
@@ -48,6 +52,9 @@ Bears on Stairs http://vimeo.com/channels/animatedshorts/91711011
 Escape from City 17 https://www.youtube.com/watch?v=9ixFf4ljuCg
 
 ### Artists
+
+#### Squint Opera
+Rio 2016 https://www.youtube.com/watch?v=acx7w2cOjyY&index=8&list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ
 
 #### Joan Guasch
 Delorean Crystal http://youtu.be/-Q7skb6Prvs
