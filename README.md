@@ -8,6 +8,8 @@ A repository of resources for creating animations of environments. Primary resou
 - Archive.org https://archive.org/
 - Text To Speech http://ttsreader.com/
 - CAD Mapper https://cadmapper.com/
+- ScriptSpot http://www.scriptspot.com/
+- 3DSky https://3dsky.org/
 
 ## Example Animations
 
