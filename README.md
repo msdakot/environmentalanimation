@@ -3,9 +3,9 @@ A repository of resources for creating animations of environments. Primary resou
 
 ## Assets
 
-Autodesk SEEK http://seek.autodesk.com
-3D Warehouse https://3dwarehouse.sketchup.com/
-Archive.org https://archive.org/
+-Autodesk SEEK http://seek.autodesk.com
+-3D Warehouse https://3dwarehouse.sketchup.com/
+-Archive.org https://archive.org/
 Text To Speech http://ttsreader.com/
 CAD Mapper https://cadmapper.com/
 
