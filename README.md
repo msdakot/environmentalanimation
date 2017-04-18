@@ -80,7 +80,7 @@ PROJECT PRECEDENTS
 - Boys Latin
 
 #### Bradley Cantrell
-New Chair at UVAU
+New Chair at UVA
 - Hydrography: http://vimeo.com/93353184
 - New Orleans: http://vimeo.com/93353182 and http://vimeo.com/14018940
 
