@@ -88,6 +88,9 @@ New Chair at UVA
 #### OLIN/Weiss Manfredi: Sylvan Grove
 - http://vimeo.com/41492356
 
+#### Tom Leader Studio
+- Shanghai Sanlin Valley https://vimeo.com/214590921
+
 #### Zaha Hadid
 - Bridge https://vimeo.com/136325200
 - Changsha Meixihu International Culture and Art Center: https://www.youtube.com/watch?v=itTY2vOjEdo
