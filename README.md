@@ -74,8 +74,8 @@ A repository of resources for creating animations of environments. Primary resou
 - [Home](http://universalassemblyunit.com/)
 
 #### Encyclopedia Pictura
-- [The Internet]
-- [Boys Latin]
+- [The Internet](https://vimeo.com/75395812)
+- [Boys Latin](https://www.youtube.com/watch?v=prBaZzYmQrI)
 
 #### Bradley Cantrell
 New Landscape Architecture Chair at UVA
@@ -97,7 +97,7 @@ New Landscape Architecture Chair at UVA
 - [Dalian International Conference Center](https://www.youtube.com/watch?v=cUrt8-aHJjs)
 
 #### BIG
--[B](https://www.youtube.com/watch?v=lALmZv_dbo8&amp;index=3&amp;list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ)
+- [B](https://www.youtube.com/watch?v=lALmZv_dbo8&amp;index=3&amp;list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ)
 
 #### MVVA
 - [ARC](http://vimeo.com/55815085)
