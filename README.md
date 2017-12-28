@@ -1,13 +1,22 @@
 # Environmental Animation Resources
 A repository of resources for creating animations of environments. Primary resource for the students of the Environmental Animation class at the University of Pennsylvania PennDesign School.
 
-#### To categorize
+## To categorize
 
-- [Snow Fall NYT Interactive](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
-- [Lateral Studio](https://vimeo.com/63614185)
-- [Yeasayers on Mars](https://vimeo.com/151002965)
 
-#### ASSETS
+#### Donovan
+- [1968 Atlantis](https://www.youtube.com/watch?v=1Wv43EU4KVs)
+
+- [3D animated grafitti Sketches](http://vimeo.com/17023536)
+
+#### Audioreactive
+- [magneto](https://cdesignc.box.com/signup/collablink/d_2833490273/762bfa8dbd7eb)
+
+### Point Clouds
+- [CAO Amazon Rainforest](https://www.youtube.com/watch?v=Yb7PORvQZxg)
+
+
+## ASSETS
 
 - [Autodesk SEEK](http://seek.autodesk.com)
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
@@ -18,8 +27,9 @@ A repository of resources for creating animations of environments. Primary resou
 - [3DSky](https://3dsky.org/)
 
 
-###PROJECT PRECEDENTS
-#### Abstract
+## PRECEDENTS
+
+#### Abstract Animations
 - [Big Brother](http://vimeo.com/channels/animatedshorts/103437078)
 - [Elastica](http://vimeo.com/channels/animatedshorts/90603521)
 - [Walking City](http://vimeo.com/channels/animatedshorts/85596568)
@@ -38,21 +48,28 @@ A repository of resources for creating animations of environments. Primary resou
 #### Light and Magic
 - [Wanderers](http://vimeo.com/channels/animatedshorts/78716671)
 - [Fortress (Airplane Apocalypse)](http://vimeo.[com/channels/animatedshorts/67768281)
-
 - [Cite Campus](https://goo.gl/Kkvj6J)
-
 - [Foster Moon Base](https://www.youtube.com/watch?time_continue=262&v=-TwYEIb90-8)
 
-- [Tim Portlock](https://vimeo.com/83285121)
+#### Scanned Content
+- [Yeasayers on Mars](https://vimeo.com/151002965)
+
+#### WEB
+- [Snow Fall NYT Interactive](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
 
 #### Trickery
 - [Bears on Stairs](http://vimeo.com/channels/animatedshorts/91711011)
 - [Escape from City 17](https://www.youtube.com/watch?v=9ixFf4ljuCg)
 
-### ARTISTS
+### AR / VR / MR
+- [Bloxels](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)
+- [ARKit and Unreal](https://www.unrealengine.com/en-US/blog/epic-unreal-engine-wwdc-2017)
+- 
 
-#### Squint Opera
-- [Rio 2016](https://www.youtube.com/watch?v=acx7w2cOjyY&index=8&list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ)
+## ARTISTS
+
+#### Tim Portlock
+- [11th St City Symphony](https://vimeo.com/83285121)
 
 #### Joan Guasch
 - [Delorean Crystal](http://youtu.be/-Q7skb6Prvs)
@@ -62,6 +79,11 @@ A repository of resources for creating animations of environments. Primary resou
 - [Numba Rubberband](http://vimeo.com/84785345)
 - [Moog](http://vimeo.com/58941571)
 - [Flying Lotus by Lilfuchs](https://www.youtube.com/watch?v=0ScYz9sNaQk)
+
+## INSTITUTIONS / ANIMATION HOUSES
+
+#### Squint Opera
+- [Rio 2016](https://www.youtube.com/watch?v=acx7w2cOjyY&index=8&list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ)
 
 #### UNIT 24 at BARTLETT
 - [Home](http://www.unittwentyfour.com/)
@@ -77,11 +99,15 @@ A repository of resources for creating animations of environments. Primary resou
 - [The Internet](https://vimeo.com/75395812)
 - [Boys Latin](https://www.youtube.com/watch?v=prBaZzYmQrI)
 
+#### Brooklyn Digital Foundry
+- [Highline](http://vimeo.com/10053802)
+
+## LANDSCAPE ARCHITECTS AND ARCHITECTS
+
 #### Bradley Cantrell
 New Landscape Architecture Chair at UVA
 - [Hydrography](http://vimeo.com/93353184)
 - [New Orleans](http://vimeo.com/93353182) [...and](http://vimeo.com/14018940)
-
 
 #### OLIN/Weiss Manfredi
 - [Sylvan Grove](http://vimeo.com/41492356)
@@ -114,19 +140,11 @@ New Landscape Architecture Chair at UVA
 - [De Rotterdam](https://www.youtube.com/watch?v=ACKvs_cwnYg)
 - [Miami Beach Square](https://www.youtube.com/watch?v=O4BatuC8svY)
 
-#### Parkorman
-- [P](https://vimeo.com/176369921)
+#### Lateral Studio
+- [Home](https://vimeo.com/63614185)
 
-#### Donovan
-- [1968 Atlantis](https://www.youtube.com/watch?v=1Wv43EU4KVs)
+#### Dror
+- [Parkorman](https://vimeo.com/176369921)
 
-- [3D animated grafitti Sketches](http://vimeo.com/17023536)
 
-#### Audioreactive
-- [magneto](https://cdesignc.box.com/signup/collablink/d_2833490273/762bfa8dbd7eb)
 
-#### Brooklyn Digital Foundry
-- [Highline](http://vimeo.com/10053802)
-
-### Point Clouds
-- [CAO Amazon Rainforest](https://www.youtube.com/watch?v=Yb7PORvQZxg)
