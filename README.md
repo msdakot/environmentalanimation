@@ -80,7 +80,7 @@ A repository of resources for creating animations of environments. Primary resou
 #### Bradley Cantrell
 New Landscape Architecture Chair at UVA
 - [Hydrography](http://vimeo.com/93353184)
-- [New Orleans](http://vimeo.com/93353182 and](http://vimeo.com/14018940)
+- [New Orleans](http://vimeo.com/93353182) [...and](http://vimeo.com/14018940)
 
 
 #### OLIN/Weiss Manfredi
@@ -100,33 +100,33 @@ New Landscape Architecture Chair at UVA
 -[B](https://www.youtube.com/watch?v=lALmZv_dbo8&amp;index=3&amp;list=PLiVjfcIJ1aFNR33cyJWaWuWsv2EVAWGQZ)
 
 #### MVVA
-- ARC](http://vimeo.com/55815085
+- [ARC](http://vimeo.com/55815085)
 
 #### Stoss
-- 11th St](http://vimeo.com/107753559
+- [11th St](http://vimeo.com/107753559)
 
 #### MVRDV
-- Grand Paris](https://www.youtube.com/watch?v=lyvSzmBkg9s
-- Mountain of Books](https://www.youtube.com/watch?v=w5nIYKedxNQ
-- Kissing Towers](https://www.youtube.com/watch?v=SC1QTKZXpMA
+- [Grand Paris](https://www.youtube.com/watch?v=lyvSzmBkg9s)
+- [Mountain of Books](https://www.youtube.com/watch?v=w5nIYKedxNQ)
+- [Kissing Towers](https://www.youtube.com/watch?v=SC1QTKZXpMA)
 
 #### OMA
-- De Rotterdam](https://www.youtube.com/watch?v=ACKvs_cwnYg
-- Miami Beach Square](https://www.youtube.com/watch?v=O4BatuC8svY
+- [De Rotterdam](https://www.youtube.com/watch?v=ACKvs_cwnYg)
+- [Miami Beach Square](https://www.youtube.com/watch?v=O4BatuC8svY)
 
 #### Parkorman
--](https://vimeo.com/176369921
+- [P](https://vimeo.com/176369921)
 
 #### Donovan
-- 1968 Atlantis](https://www.youtube.com/watch?v=1Wv43EU4KVs
+- [1968 Atlantis](https://www.youtube.com/watch?v=1Wv43EU4KVs)
 
-- 3d animated grafitti Sketches](http://vimeo.com/17023536
+- [3D animated grafitti Sketches](http://vimeo.com/17023536)
 
 #### Audioreactive
-- magneto](https://cdesignc.box.com/signup/collablink/d_2833490273/762bfa8dbd7eb
+- [magneto](https://cdesignc.box.com/signup/collablink/d_2833490273/762bfa8dbd7eb)
 
 #### Brooklyn Digital Foundry
-- Highline](http://vimeo.com/10053802
+- [Highline](http://vimeo.com/10053802)
 
 ### Point Clouds
-- CAO Amazon Rainforest](https://www.youtube.com/watch?v=Yb7PORvQZxg
+- [CAO Amazon Rainforest](https://www.youtube.com/watch?v=Yb7PORvQZxg)
