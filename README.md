@@ -5,21 +5,26 @@ A repository of resources for creating animations of environments. Primary resou
 ## RESOURCES
 
 #### Learning
-
-- [Learn Unreal](https://docs.unrealengine.com/latest/INT/){:target="_blank"}
+- [Lynda](Lynda.com)
+- [Video CoPilot (After Effects tricks)](http://www.videocopilot.net/)
+- [Learn Unreal](https://docs.unrealengine.com/latest/INT/)
 
 #### Assests
 
-- [Autodesk SEEK](http://seek.autodesk.com)
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
+- [BIM Object](http://bimobject.com/en-us?origin=seek)
 - [Archive.org](https://archive.org/)
 - [Text To Speech](http://ttsreader.com/)
 - [CAD Mapper](https://cadmapper.com/)
 - [3DSky](https://3dsky.org/)
+- [TurboSquid](https://www.turbosquid.com/)
 
 #### Scripting
 
+- [MaxScript 101](https://vimeo.com/album/1514565)
 - [ScriptSpot (MaxScript)](http://www.scriptspot.com/)
+- [AutoDesk AREA](https://area.autodesk.com/search/?q=maxscript)
+- [Motion Script](http://motionscript.com/)
 
 
 ## PRECEDENTS
@@ -57,8 +62,10 @@ A repository of resources for creating animations of environments. Primary resou
 - [Escape from City 17](https://www.youtube.com/watch?v=9ixFf4ljuCg)
 
 ### AR / VR / MR
-- [Bloxels](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)
+- [Pokemon Go](https://www.youtube.com/watch?v=c8ow2WitqTw)
 - [ARKit and Unreal](https://www.unrealengine.com/en-US/blog/epic-unreal-engine-wwdc-2017)
+- [ARCloud](https://medium.com/super-ventures-blog/arkit-and-arcore-will-not-usher-massive-adoption-of-mobile-ar-da3d87f7e5ad?mc_cid=701b28c413&mc_eid=64cc929e22)
+- [Bloxels](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)
 - [3D animated grafitti Sketches](http://vimeo.com/17023536)
 
 ## ARTISTS
