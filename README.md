@@ -1,30 +1,25 @@
 # Environmental Animation Resources
 A repository of resources for creating animations of environments. Primary resource for the students of the Environmental Animation class at the University of Pennsylvania PennDesign School.
 
-## To categorize
 
+## RESOURCES
 
-#### Donovan
-- [1968 Atlantis](https://www.youtube.com/watch?v=1Wv43EU4KVs)
+#### Learning
 
-- [3D animated grafitti Sketches](http://vimeo.com/17023536)
+- [Learn Unreal](https://docs.unrealengine.com/latest/INT/)
 
-#### Audioreactive
-- [magneto](https://cdesignc.box.com/signup/collablink/d_2833490273/762bfa8dbd7eb)
-
-### Point Clouds
-- [CAO Amazon Rainforest](https://www.youtube.com/watch?v=Yb7PORvQZxg)
-
-
-## ASSETS
+#### Assests
 
 - [Autodesk SEEK](http://seek.autodesk.com)
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
 - [Archive.org](https://archive.org/)
 - [Text To Speech](http://ttsreader.com/)
 - [CAD Mapper](https://cadmapper.com/)
-- [ScriptSpot](http://www.scriptspot.com/)
 - [3DSky](https://3dsky.org/)
+
+#### Scripting
+
+- [ScriptSpot (MaxScript)](http://www.scriptspot.com/)
 
 
 ## PRECEDENTS
@@ -64,7 +59,7 @@ A repository of resources for creating animations of environments. Primary resou
 ### AR / VR / MR
 - [Bloxels](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)
 - [ARKit and Unreal](https://www.unrealengine.com/en-US/blog/epic-unreal-engine-wwdc-2017)
-- 
+- [3D animated grafitti Sketches](http://vimeo.com/17023536)
 
 ## ARTISTS
 
