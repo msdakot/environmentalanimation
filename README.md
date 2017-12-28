@@ -6,7 +6,7 @@ A repository of resources for creating animations of environments. Primary resou
 
 #### Learning
 
-- [Learn Unreal](https://docs.unrealengine.com/latest/INT/)
+- [Learn Unreal](https://docs.unrealengine.com/latest/INT/){:target="_blank"}
 
 #### Assests
 
