@@ -65,6 +65,7 @@ A repository of resources for creating animations of environments. Primary resou
 - [ARKit and Unreal (AR)](https://www.unrealengine.com/en-US/blog/epic-unreal-engine-wwdc-2017)
 - [ARCloud (AR)](https://medium.com/super-ventures-blog/arkit-and-arcore-will-not-usher-massive-adoption-of-mobile-ar-da3d87f7e5ad?mc_cid=701b28c413&mc_eid=64cc929e22)
 - [Bloxels (CV)](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)
+- [Hyper-Reality](https://vimeo.com/166807261)
 - [3D animated grafitti Sketches (FX)](http://vimeo.com/17023536)
 
 ## ARTISTS
