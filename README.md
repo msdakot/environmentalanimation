@@ -9,7 +9,7 @@ A repository of resources for creating animations of environments. Primary resou
 - [Video CoPilot (After Effects tricks)](http://www.videocopilot.net/)
 - [Learn Unreal](https://docs.unrealengine.com/latest/INT/)
 
-#### Assests
+#### Assets
 
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
 - [BIM Object](http://bimobject.com/en-us?origin=seek)
