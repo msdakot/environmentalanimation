@@ -25,6 +25,7 @@ A repository of resources for creating animations of environments. Primary resou
 - [ScriptSpot (MaxScript)](http://www.scriptspot.com/)
 - [AutoDesk AREA](https://area.autodesk.com/search/?q=maxscript)
 - [Motion Script](http://motionscript.com/)
+- [MaxScript Coding Standards](http://www.scriptspot.com/3ds-max/tutorials/maxscript-coding-standards)
 
 
 ## PRECEDENTS
