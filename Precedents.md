@@ -1,3 +1,7 @@
+__To Do...__
+- Split into a few documents
+- Add Blender Learning Resources
+
 # Environmental Animation Resources
 A repository of resources for creating animations of environments. Primary resource for the students of the Environmental Animation class at the University of Pennsylvania PennDesign School.
 
@@ -12,6 +16,7 @@ A repository of resources for creating animations of environments. Primary resou
 #### Assets
 
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
+- [SketchFab] (https://sketchfab.com)
 - [BIM Object](http://bimobject.com/en-us?origin=seek)
 - [Archive.org](https://archive.org/)
 - [Text To Speech](http://ttsreader.com/)
@@ -21,11 +26,7 @@ A repository of resources for creating animations of environments. Primary resou
 
 #### Scripting
 
-- [MaxScript 101](https://vimeo.com/album/1514565)
-- [ScriptSpot (MaxScript)](http://www.scriptspot.com/)
-- [AutoDesk AREA](https://area.autodesk.com/search/?q=maxscript)
-- [Motion Script](http://motionscript.com/)
-- [MaxScript Coding Standards](http://www.scriptspot.com/3ds-max/tutorials/maxscript-coding-standards)
+- _BLENDER / PYTHON_
 
 
 ## PRECEDENTS
