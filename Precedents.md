@@ -26,7 +26,15 @@ A repository of resources for creating animations of environments. Primary resou
 
 #### Scripting
 
-- _BLENDER / PYTHON_
+- [API Documentation](https://docs.blender.org/api/current/)
+- [Blender Manual Page](https://docs.blender.org/manual/en/dev/advanced/scripting/index.html)
+- [Intro to Blender Python Scripting](https://youtu.be/KNa5kJd2Epo)
+- [Stack Exchange](blender.stackexchange.com)
+- [blender scripting blog](blenderscripting.blogspot.co.il)
+- [bioblog](bioblog3d.wordpress.com)
+- [Blender Cookbook](wiki.blender.org/index.php/Dev:Py/Scripts/Cookbook/Code_snippets)
+
+
 
 
 ## PRECEDENTS
