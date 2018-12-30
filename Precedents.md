@@ -16,7 +16,7 @@ A repository of resources for creating animations of environments. Primary resou
 #### Assets
 
 - [3D Warehouse](https://3dwarehouse.sketchup.com/)
-- [SketchFab] (https://sketchfab.com)
+- [SketchFab](https://sketchfab.com)
 - [BIM Object](http://bimobject.com/en-us?origin=seek)
 - [Archive.org](https://archive.org/)
 - [Text To Speech](http://ttsreader.com/)
