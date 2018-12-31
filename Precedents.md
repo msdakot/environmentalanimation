@@ -77,6 +77,7 @@ A repository of resources for creating animations of environments. Primary resou
 - [Bloxels (CV)](https://www.kickstarter.com/projects/pixelpress/bloxels-build-your-own-video-games-with-blocks)
 - [Hyper-Reality](https://vimeo.com/166807261)
 - [3D animated grafitti Sketches (FX)](http://vimeo.com/17023536)
+- [Seymour Powell Car Desgin](https://youtu.be/j5bAig-8uFs)
 
 ## ARTISTS
 
