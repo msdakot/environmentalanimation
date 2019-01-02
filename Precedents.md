@@ -94,6 +94,10 @@ A repository of resources for creating animations of environments. Primary resou
 - [Moog](http://vimeo.com/58941571)
 - [Flying Lotus by Lilfuchs](https://www.youtube.com/watch?v=0ScYz9sNaQk)
 
+#### The Mill
+- [Chemical Brothers](https://www.youtube.com/watch?v=BC2dRkm8ATU)
+- [Making of](https://vimeo.com/154038415)
+
 ## INSTITUTIONS / ANIMATION HOUSES
 
 #### Squint Opera
