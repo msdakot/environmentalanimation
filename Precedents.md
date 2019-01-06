@@ -12,6 +12,7 @@ A repository of resources for creating animations of environments. Primary resou
 - [Lynda](Lynda.com)
 - [Video CoPilot (After Effects tricks)](http://www.videocopilot.net/)
 - [Learn Unreal](https://docs.unrealengine.com/latest/INT/)
+- [EEVEE Demos Reel](https://www.youtube.com/watch?v=gy4E9nc5m0E)
 
 #### Assets
 
