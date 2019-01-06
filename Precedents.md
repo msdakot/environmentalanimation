@@ -12,7 +12,8 @@ A repository of resources for creating animations of environments. Primary resou
 - [Lynda](Lynda.com)
 - [Video CoPilot (After Effects tricks)](http://www.videocopilot.net/)
 - [Learn Unreal](https://docs.unrealengine.com/latest/INT/)
-- [EEVEE Demos Reel](https://www.youtube.com/watch?v=gy4E9nc5m0E)
+- [EEVEE - Realtime Engine Demos Reel](https://www.youtube.com/watch?v=gy4E9nc5m0E)
+- [3DF Zephyr - Free Photogrammetry Software](https://www.3dflow.net/technology/documents/3df-zephyr-tutorials/)
 
 #### Assets
 
