@@ -38,7 +38,12 @@ A repository of resources for creating animations of environments. Primary resou
 - [Blender Cookbook](wiki.blender.org/index.php/Dev:Py/Scripts/Cookbook/Code_snippets)
 - [The Next Leap: How A.I. will change the 3D industry - Andrew Price](https://www.youtube.com/watch?v=FlgLxSLsYWQ)
 
-
+#### Open Source Software
+- Blender
+- Unreal Engine
+- Zephyr
+- Cloud Compare
+- [3D Slicer](https://www.slicer.org/)
 
 ## PRECEDENTS
 
