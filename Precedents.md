@@ -43,6 +43,7 @@ A repository of resources for creating animations of environments. Primary resou
 - Unreal Engine
 - Zephyr
 - Cloud Compare
+- MeshLab
 - [3D Slicer](https://www.slicer.org/)
 
 ## PRECEDENTS
