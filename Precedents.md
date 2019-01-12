@@ -1,6 +1,23 @@
 
 # Environmental Animation Precedents
 
+## New Precedents
+- “Design Noir” by Dunne and Raby
+- Natalie Jeremejenko
+- Philip Beesley Installations
+- Minority Report / Matrix
+- Black Mirror
+- Cantrell's work (Information in the environment)
+- The Living
+- The Long Now
+- Jenny Sabin
+- Nicole Koltick, Design Futures Lab
+- Modelab, 
+- Center for Genomic Gastronomy
+- Gardens by the Bay
+- Chris Landau (Flocking Party and Vector Equilibria and OLIN (LABS))
+
+
 #### Abstract Animations
 - [Big Brother](http://vimeo.com/channels/animatedshorts/103437078)
 - [Elastica](http://vimeo.com/channels/animatedshorts/90603521)
