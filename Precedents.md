@@ -1,5 +1,5 @@
 
-# PRECEDENTS
+# Environmental Animation Precedents
 
 #### Abstract Animations
 - [Big Brother](http://vimeo.com/channels/animatedshorts/103437078)
