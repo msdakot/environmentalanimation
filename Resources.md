@@ -1,6 +1,8 @@
 # Environmental Animation Resources
 
 #### Learning
+- [Blender Tutorials](https://www.blender.org/support/tutorials/)
+- [Python Tutorials](https://www.learnpython.org/)
 - [Lynda](Lynda.com)
 - [Video CoPilot (After Effects tricks)](http://www.videocopilot.net/)
 - [Learn Unreal](https://docs.unrealengine.com/latest/INT/)
