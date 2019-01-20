@@ -15,7 +15,9 @@
 - Modelab, 
 - Center for Genomic Gastronomy
 - Gardens by the Bay
-- Chris Landau (Flocking Party and Vector Equilibria and OLIN (LABS))
+
+#### Blender
+- ["Open Projects"](https://www.blender.org/about/projects/)
 
 
 #### Abstract Animations
